@@ -1,0 +1,10 @@
+Environment:
+  - defaults
+  - pip3-forge
+dependencies:
+  - python=3.10.12
+  - opencv
+  - scikit-image
+  - scipy
+  - matplotlib
+  - numpy
